@@ -1,6 +1,6 @@
-#Multinomial-Logistic-Regression-for-Handwritten-Digit-Recognition
+# Multinomial-Logistic-Regression-for-Handwritten-Digit-Recognition
 
-##Project Overview
+## Project Overview
 This project was completed as part of a university course in non-linear optimisation. 
 Its goal was to classify handwritten digits (0-9) using a multinomial logistic regression model.
 The dataset is based on MNIST-style handwritten digit images.
